@@ -22,29 +22,30 @@ export default {
     messageWhenNoItems: "There are not items",
     timelineItems: [
       {
-        from: new Date(2018, 7),
-        title: "Name",
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius earum architecto dolor, vitae magnam voluptate accusantium assumenda numquam error mollitia, officia facere consequuntur reprehenderit cum voluptates, ea tempore beatae unde.",
-      },
-      {
-        from: new Date(2016, 1),
-        title: "Name",
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius earum architecto dolor, vitae magnam voluptate accusantium assumenda numquam error mollitia, officia facere consequuntur reprehenderit cum voluptates, ea tempore beatae unde.",
-      },
-      {
-        from: new Date(2016, 6),
-        title: "Name",
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius earum architecto dolor, vitae magnam voluptate accusantium assumenda numquam error mollitia, officia facere consequuntur reprehenderit cum voluptates, ea tempore beatae unde.",
-      },
-      {
-        from: new Date(2012, 1),
-        title: "Name",
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius earum architecto dolor, vitae magnam voluptate accusantium assumenda numquam error mollitia, officia facere consequuntur reprehenderit cum voluptates, ea tempore beatae unde.",
-      },
+          title: "Zemoga - Monks",
+          date: "february 2021 - currently",
+          description: "Lead Frontend Developer",
+        },
+        {
+          title: "Globant",
+          date: "April 2018 - February 2021",
+          description: "Web UI Semi Sr Advanced",
+        },
+        {
+          title: "Quadi",
+          date: "October 2016 - April 2018",
+          description: "Definitio Architect/ Technical Leader",
+        },
+        {
+          title: "SANCHO BBDO",
+          date: "March 2015 - October 2016",
+          description: "Inbound Technologist",
+        },
+        {
+          title: "INP LTDA",
+          date: "October 2012 - February 2015",
+          description: "Development Engineer",
+        },
     ],
   }),
 };
